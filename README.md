@@ -1,5 +1,5 @@
 **LinkedLists in Java**
-This repository contains Java implementations of Singly Linked List and Doubly Linked List along with accompanying notes for a better understanding of the concepts.
+This repository contains Java implementations of Singly Linked List and Doubly Linked List along with accompanying note points for a better understanding of the concepts.
 
 Contents:
 SinglyLinkedList.java:
