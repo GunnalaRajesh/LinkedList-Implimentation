@@ -1,3 +1,6 @@
+Note : Use Main.java file to run SLL.java and MainDLL file to run DLL
+
+
 **LinkedLists in Java**
 This repository contains Java implementations of Singly Linked List and Doubly Linked List along with accompanying note points for a better understanding of the concepts.
 
